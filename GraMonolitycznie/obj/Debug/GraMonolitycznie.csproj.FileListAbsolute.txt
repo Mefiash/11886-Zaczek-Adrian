@@ -1,0 +1,11 @@
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.manifest
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.application
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe.manifest
+C:\Users\Mesio\Desktop\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.application

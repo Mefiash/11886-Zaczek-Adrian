@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraMonolitycznie", "GraMonolitycznie\GraMonolitycznie.csproj", "{0D3224E4-749A-4D21-862E-4EB106B6B79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralnie", "GraProceduralnie\GraProceduralnie.csproj", "{64F71958-D20A-4174-A253-D7D9762EBDC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelGry", "ModelGry\ModelGry.csproj", "{23F2D85D-BFF8-490B-B88A-A550C160E2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestModelGry", "ConsoleAppTestModelGry\ConsoleAppTestModelGry.csproj", "{0E3747E8-14C6-4216-A785-B0EDA8F693B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectModelGry", "UnitTestProjectModelGry\UnitTestProjectModelGry.csproj", "{27B5D823-BE94-42F9-B600-A51EA3E391E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraGUI", "GraGUI\GraGUI.csproj", "{D0C7492F-1F8A-4042-86CB-C21D3A308776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3224E4-749A-4D21-862E-4EB106B6B79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3224E4-749A-4D21-862E-4EB106B6B79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3224E4-749A-4D21-862E-4EB106B6B79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3224E4-749A-4D21-862E-4EB106B6B79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F71958-D20A-4174-A253-D7D9762EBDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F71958-D20A-4174-A253-D7D9762EBDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F71958-D20A-4174-A253-D7D9762EBDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F71958-D20A-4174-A253-D7D9762EBDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F2D85D-BFF8-490B-B88A-A550C160E2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F2D85D-BFF8-490B-B88A-A550C160E2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F2D85D-BFF8-490B-B88A-A550C160E2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F2D85D-BFF8-490B-B88A-A550C160E2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3747E8-14C6-4216-A785-B0EDA8F693B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3747E8-14C6-4216-A785-B0EDA8F693B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3747E8-14C6-4216-A785-B0EDA8F693B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3747E8-14C6-4216-A785-B0EDA8F693B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B5D823-BE94-42F9-B600-A51EA3E391E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B5D823-BE94-42F9-B600-A51EA3E391E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B5D823-BE94-42F9-B600-A51EA3E391E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B5D823-BE94-42F9-B600-A51EA3E391E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C7492F-1F8A-4042-86CB-C21D3A308776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C7492F-1F8A-4042-86CB-C21D3A308776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C7492F-1F8A-4042-86CB-C21D3A308776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C7492F-1F8A-4042-86CB-C21D3A308776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652577D5-6769-473E-B001-81DED4B03C21}
+	EndGlobalSection
+EndGlobal
